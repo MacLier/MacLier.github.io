@@ -1,6 +1,6 @@
 ---
 
-layout index.html
+layout: index.html
 
 ---
 ## Welcome to GitHub Pages
